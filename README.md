@@ -1,7 +1,5 @@
 # Before-and-After-COVID-Topic-Modeling-for-Airbnb-listings
 
-Before and after COVID comparison of the listings by the hosts on Airbnb.
-
 Performed topic modeling to determine how hosts changed their pitching strategy before and after covid. 
 
 Cleaned the data using regex, textacy and cosine similarity. Further, vectorized the data using tf-idf and
